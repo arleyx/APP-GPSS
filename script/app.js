@@ -7,24 +7,48 @@ setTimeout(function () {
 
 // --> QUESTION
 var numQuestion = 0;
+var numRandom = [];
 var result = 0;
 
 function getQuestion () {
-
-    numQuestion = parseInt(Math.random() * response.questions.length);
-
-    console.log(response.questions.length);
-    console.log(numQuestion);
-
-    var objQuestion = response.questions[numQuestion];
-    var objAnswer = '';
-
-    if (numQuestion >= response.questions.length) {
+    if (numRandom.length == response.questions.length) {
         document.querySelector('#main').classList.remove('show');
         document.querySelector('#result').innerHTML = result + ' Preguntas correctas';
         document.querySelector('#finish').classList.add('show');
         return false;
     }
+
+    isDiferent = false;
+
+    while (!isDiferent) {
+        numQuestion = parseInt(Math.random() * response.questions.length);
+        isDiferent = true;
+        for (number in numRandom) {
+            console.log(numQuestion+' == '+numRandom[number]);
+            if (numQuestion == numRandom[number]) {
+                isDiferent = false;
+            }
+        }
+    }
+
+    numRandom.push(numQuestion);
+
+    /* LOG
+    console.log('Numero de preguntas: '+response.questions.length);
+    console.log('Pregunta aleatoria: '+numQuestion);
+    console.error('Pregunta ya resultas: ');
+    console.error(numRandom);*/
+
+    var objQuestion = response.questions[numQuestion];
+    var objAnswer = '';
+
+    /* HABILITAR PARA PREGUNTAS DE RECORRIDO
+    if (numQuestion >= response.questions.length) {
+        document.querySelector('#main').classList.remove('show');
+        document.querySelector('#result').innerHTML = result + ' Preguntas correctas';
+        document.querySelector('#finish').classList.add('show');
+        return false;
+    }*/
 
     for (var i in objQuestion.answer) {objAnswer += '<li class="option" data-option="' + i + '" data-option-correct="' + objQuestion.correct + '">' + objQuestion.answer[i] + '</li>'}
 
@@ -57,7 +81,7 @@ function getQuestion () {
         });
     }
 
-    //numQuestion += 1;
+    //numQuestion += 1; HABILITAR PARA PREGUNTAS DE RECORRIDO
 }
 
 var message;
