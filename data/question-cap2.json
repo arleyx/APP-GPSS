@@ -1,0 +1,88 @@
+{
+    "questions":[
+        {
+            "question":"¿Que significa la palabra 'Efeso'?",
+            "answer":["Sufrida","Deseable","Principal","Amada"],
+            "correct":"1"
+        },
+        {
+            "question":"Complete: Yo conozco tus _____________ y tu arduo _____________ y _____________...",
+            "answer":["tribulaciones, peregrinaje, cansancio","Amores, paciencia, fe","obras, trabajo, paciencia","trabajos, paciencia, obras"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Que se le promete a la iglesia de Efeso?",
+            "answer":["...le dare a comer del arbol de la vida...","...no sufrira daño de la segunda muerte...","...no borrare tu nombre del libro de la vida...","...sera engrandecido..."],
+            "correct":"0"
+        },
+        {
+            "question":"¿Como se llamaba la calle en donde se arrendaban los lugares para los idolos?",
+            "answer":["El arco de hercules","La calle de marmol","La calle de los curetes","La calle de los dioses"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Que perdio la iglesia de Efeso?",
+            "answer":["Su paciencia","Su angel","Su candelabro","Su primer amor"],
+            "correct":"3"
+        },
+        {
+            "question":"¿Sobre que mar se situaba el puerto maritimo de la ciudad de Efeso?",
+            "answer":["Mar egeo","Mar negro","Mar capsio","Mar rojo"],
+            "correct":"0"
+        },
+        {
+            "question":"¿A que diosa principal se adoraba en la ciudad de Efeso?",
+            "answer":["poseidon","Artastemis","Artemisa","Ares"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Que descripción se le da a Jesus en la carta a Efeso?",
+            "answer":["El que tiene las siete estrellas en diestra","El que estuvo muerto y vivio","El Alfa y la Omega","El que tiene las siete estrellas en su siniestra"],
+            "correct":"0"
+        },
+
+
+
+
+        {
+            "question":"¿Que descripción se le da a Jesus en la carta a Esmirna?",
+            "answer":["El que tiene las siete estrellas en diestra","El que estuvo muerto y vivio","El Alfa y la Omega","El que tiene las siete estrellas en su siniestra"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Que se le promete a la iglesia de Esmirna?",
+            "answer":["...le dare a comer del arbol de la vida...","...no sufrira daño de la segunda muerte...","...no borrare tu nombre del libro de la vida...","...sera engrandecido..."],
+            "correct":"1"
+        },
+        {
+            "question":"¿Por cuantos dias serian probados los cristianos de la iglesia de Esmirna?",
+            "answer":["Dos semanas","7 dias","10 dias","Una semana"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Quienes eran los pereguidores de la iglesia de Esmirna?",
+            "answer":["Judio","Romanos y los nicolaitas","Judios y Romanos","Romanos y el papado"],
+            "correct":"2"
+        },
+        {
+            "question":"¿En que año se firmo el edicto por parte de Constantino, aproximadamente?",
+            "answer":["311 a.C","250 a.C","211 a.C","401 a.C"],
+            "correct":"0"
+        },
+        {
+            "question":"¿Como se llamaba el edicto firmado por el emperador constantino, para erradicar la persecución contra los cristianos?",
+            "answer":["El edicto de tolu","Edicto de tesalonica","Edicto de constantino","El edicto de tolerancia"],
+            "correct":"3"
+        },
+        {
+            "question":"¿Cual fue el emperador que antecedio al emperador Constantino I el grande, y que se destaco por llevar a cabo la mas sangrienta persecución en contra de los cristianos?",
+            "answer":["El emperador Diomiciano (96 - 102 a.C)","El emperador Neron (68 - 81 a.C)","El emperador Diocleciano (303 - 311 a.C)","El emperador Tito (81 - 90 a.C)"],
+            "correct":"2"
+        },
+        {
+            "question":"Describa a los presentes, la promesa, el mensaje central y enseñanza que nos trae la iglesia de Esmirna para el tiempo del fin",
+            "answer":["Descripción correcta","Descripción incorrecta"],
+            "correct":"0"
+        }
+    ]
+}

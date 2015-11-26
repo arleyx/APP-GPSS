@@ -1,0 +1,54 @@
+{
+    "questions":[
+        {
+            "question":"¿Que significa la palabra 'prototókos'?",
+            "answer":["Espiritu","Jehova","Primogénito","Iglesia"],
+            "correct":"2"
+        },
+        {
+            "question":"'...del que es y que era y que ha de venir...', hace referencia a",
+            "answer":["Dios el Padre","Dios el Espiritu Santo","Dios el Hijo","Juan el Apostol"],
+            "correct":"0"
+        },
+        {
+            "question":"¿Que tenia en el pecho el que hablaba con Juan?",
+            "answer":["Un cinto de bronce","Un cinto de lino fino","Un cinto de oro","Un cinto de plata"],
+            "correct":"2"
+        },
+        {
+            "question":"Complete... 'Y tengo las llaves del':",
+            "answer":["la muerte y la resurrección","la muerte y del Hades (sepulcro)","la vida y la resurrección","la vida y la muerte"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Que representan las 7 Estrellas del Apocalipsis?",
+            "answer":["Los 7 Candelabros","Los 7 Espiritus","Los angeles de las 7 iglesias","Las 7 iglesias"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Los 7 Espiritus estan?",
+            "answer":["a la siniestra del trono de Dios","a la diestra del trono de Dios","atras del trono de Dios","delante del trono de Dios"],
+            "correct":"3"
+        },
+        {
+            "question":"¿Que tenia en la mano derecha el que hablaba con Juan?",
+            "answer":["7 Candelabros de oro","7 Estrellas","7 Espiritus","7 Candelabros de bronce"],
+            "correct":"1"
+        },
+        {
+            "question":"La palabra griega kúrios",
+            "answer":["Iglesia","Primero","Señor","Unidad"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Que salia de la boca del que hablaba con Juan?",
+            "answer":["Una espada de un filo","El sol cuando resplandece","Un Candelabro de oro","Una espada de dos filos"],
+            "correct":"3"
+        },
+        {
+            "question":"¿Que significan los 7 Candelabros del Apocalipsis?",
+            "answer":["Las 7 iglesias","Las 7 Estrellas","Los 7 Espiritus","Los 7 trompetas"],
+            "correct":"0"
+        }
+    ]
+}

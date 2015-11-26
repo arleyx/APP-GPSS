@@ -1,0 +1,54 @@
+{
+    "questions":[
+        {
+            "question":"¿En que pais estaban ubicadas las iglesias mencionadas en el Apocalipsis?",
+            "answer":["Asia","Turquia","Grecia","Jerusalen"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Como se llamaba el emperador bajo el mando de Roma cuando se escribio el Apocalipsis?",
+            "answer":["Neron","Tiberio","Júlio Cesar","Domiciano"],
+            "correct":"3"
+        },
+        {
+            "question":"¿Que es una diaspora?",
+            "answer":["Una dispersión de un pueblo, en diferentes partes del mundo.","Una espora grande","Un día de fiesta para los Judios","Un dios perteneciente a los romanos"],
+            "correct":"0"
+        },
+        {
+            "question":"¿Quien escribio el libro del Apocalipsis?",
+            "answer":["Juan Marcos","Santiago","Juan el apostol","Juan el bautista"],
+            "correct":"2"
+        },
+        {
+            "question":"¿A donde fue desterrado el escritor del libro del Apocalipsis?",
+            "answer":["Efeso","Roma","Grecia","Patmos"],
+            "correct":"3"
+        },
+        {
+            "question":"¿En donde fue hechado el escritor del libro del Apocalipsis?",
+            "answer":["En el foso de los leones","A una olla con aceite hirviendo","A la prisión","A una olla con agua hirviendo"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Como murio el autor del libro del apocalipsis?",
+            "answer":["Apedreado","De viejo","Crucificado","Decapitado"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Cuantas iglesia se mencionan en el libro del Apocalipsis?",
+            "answer":["7","6","8","5"],
+            "correct":"0"
+        },
+        {
+            "question":"El libro del apocalipsis es un libro:",
+            "answer":["Sellado","Revelado"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Que significa la palabra Apocalipsis?",
+            "answer":["Destrucción","Sellado","Confusión","Revelación"],
+            "correct":"3"
+        }
+    ]
+}

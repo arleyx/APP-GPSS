@@ -1,0 +1,194 @@
+{
+    "questions":[
+        {
+            "question":"¿En que pais estaban ubicadas las iglesias mencionadas en el Apocalipsis?",
+            "answer":["Asia","Turquia","Grecia","Jerusalen"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Como se llamaba el emperador bajo el mando de Roma cuando se escribio el Apocalipsis?",
+            "answer":["Neron","Tiberio","Júlio Cesar","Domiciano"],
+            "correct":"3"
+        },
+        {
+            "question":"¿Que es una diaspora?",
+            "answer":["Una dispersión de un pueblo, en diferentes partes del mundo.","Una espora grande","Un día de fiesta para los Judios","Un dios perteneciente a los romanos"],
+            "correct":"0"
+        },
+        {
+            "question":"¿Quien escribio el libro del Apocalipsis?",
+            "answer":["Juan Marcos","Santiago","Juan el apostol","Juan el bautista"],
+            "correct":"2"
+        },
+        {
+            "question":"¿A donde fue desterrado el escritor del libro del Apocalipsis?",
+            "answer":["Efeso","Roma","Grecia","Patmos"],
+            "correct":"3"
+        },
+        {
+            "question":"¿En donde fue hechado el escritor del libro del Apocalipsis?",
+            "answer":["En el foso de los leones","A una olla con aceite hirviendo","A la prisión","A una olla con agua hirviendo"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Como murio el autor del libro del apocalipsis?",
+            "answer":["Apedreado","De viejo","Crucificado","Decapitado"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Cuantas iglesia se mencionan en el libro del Apocalipsis?",
+            "answer":["7","6","8","5"],
+            "correct":"0"
+        },
+        {
+            "question":"El libro del apocalipsis es un libro:",
+            "answer":["Sellado","Revelado"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Que significa la palabra Apocalipsis?",
+            "answer":["Destrucción","Sellado","Confusión","Revelación"],
+            "correct":"3"
+        },
+
+
+
+        {
+            "question":"¿Que significa la palabra 'prototókos'?",
+            "answer":["Espiritu","Jehova","Primogénito","Iglesia"],
+            "correct":"2"
+        },
+        {
+            "question":"'...del que es y que era y que ha de venir...', hace referencia a",
+            "answer":["Dios el Padre","Dios el Espiritu Santo","Dios el Hijo","Juan el Apostol"],
+            "correct":"0"
+        },
+        {
+            "question":"¿Que tenia en el pecho el que hablaba con Juan?",
+            "answer":["Un cinto de bronce","Un cinto de lino fino","Un cinto de oro","Un cinto de plata"],
+            "correct":"2"
+        },
+        {
+            "question":"Complete... 'Y tengo las llaves del':",
+            "answer":["la muerte y la resurrección","la muerte y del Hades (sepulcro)","la vida y la resurrección","la vida y la muerte"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Que representan las 7 Estrellas del Apocalipsis?",
+            "answer":["Los 7 Candelabros","Los 7 Espiritus","Los angeles de las 7 iglesias","Las 7 iglesias"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Los 7 Espiritus estan?",
+            "answer":["a la siniestra del trono de Dios","a la diestra del trono de Dios","atras del trono de Dios","delante del trono de Dios"],
+            "correct":"3"
+        },
+        {
+            "question":"¿Que tenia en la mano derecha el que hablaba con Juan?",
+            "answer":["7 Candelabros de oro","7 Estrellas","7 Espiritus","7 Candelabros de bronce"],
+            "correct":"1"
+        },
+        {
+            "question":"La palabra griega kúrios",
+            "answer":["Iglesia","Primero","Señor","Unidad"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Que salia de la boca del que hablaba con Juan?",
+            "answer":["Una espada de un filo","El sol cuando resplandece","Un Candelabro de oro","Una espada de dos filos"],
+            "correct":"3"
+        },
+        {
+            "question":"¿Que significan los 7 Candelabros del Apocalipsis?",
+            "answer":["Las 7 iglesias","Las 7 Estrellas","Los 7 Espiritus","Los 7 trompetas"],
+            "correct":"0"
+        },
+
+
+
+        {
+            "question":"¿Que significa la palabra 'Efeso'?",
+            "answer":["Sufrida","Deseable","Principal","Amada"],
+            "correct":"1"
+        },
+        {
+            "question":"Complete: Yo conozco tus _____________ y tu arduo _____________ y _____________...",
+            "answer":["tribulaciones, peregrinaje, cansancio","Amores, paciencia, fe","obras, trabajo, paciencia","trabajos, paciencia, obras"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Que se le promete a la iglesia de Efeso?",
+            "answer":["...le dare a comer del arbol de la vida...","...no sufrira daño de la segunda muerte...","...no borrare tu nombre del libro de la vida...","...sera engrandecido..."],
+            "correct":"0"
+        },
+        {
+            "question":"¿Como se llamaba la calle en donde se arrendaban los lugares para los idolos?",
+            "answer":["El arco de hercules","La calle de marmol","La calle de los curetes","La calle de los dioses"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Que perdio la iglesia de Efeso?",
+            "answer":["Su paciencia","Su angel","Su candelabro","Su primer amor"],
+            "correct":"3"
+        },
+        {
+            "question":"¿Sobre que mar se situaba el puerto maritimo de la ciudad de Efeso?",
+            "answer":["Mar egeo","Mar negro","Mar capsio","Mar rojo"],
+            "correct":"0"
+        },
+        {
+            "question":"¿A que diosa principal se adoraba en la ciudad de Efeso?",
+            "answer":["poseidon","Artastemis","Artemisa","Ares"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Que descripción se le da a Jesus en la carta a Efeso?",
+            "answer":["El que tiene las siete estrellas en diestra","El que estuvo muerto y vivio","El Alfa y la Omega","El que tiene las siete estrellas en su siniestra"],
+            "correct":"0"
+        },
+
+
+
+
+        {
+            "question":"¿Que descripción se le da a Jesus en la carta a Esmirna?",
+            "answer":["El que tiene las siete estrellas en diestra","El que estuvo muerto y vivio","El Alfa y la Omega","El que tiene las siete estrellas en su siniestra"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Que se le promete a la iglesia de Esmirna?",
+            "answer":["...le dare a comer del arbol de la vida...","...no sufrira daño de la segunda muerte...","...no borrare tu nombre del libro de la vida...","...sera engrandecido..."],
+            "correct":"1"
+        },
+        {
+            "question":"¿Por cuantos dias serian probados los cristianos de la iglesia de Esmirna?",
+            "answer":["Dos semanas","7 dias","10 dias","Una semana"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Quienes eran los pereguidores de la iglesia de Esmirna?",
+            "answer":["Judio","Romanos y los nicolaitas","Judios y Romanos","Romanos y el papado"],
+            "correct":"2"
+        },
+        {
+            "question":"¿En que año se firmo el edicto por parte de Constantino, aproximadamente?",
+            "answer":["311 a.C","250 a.C","211 a.C","401 a.C"],
+            "correct":"0"
+        },
+        {
+            "question":"¿Como se llamaba el edicto firmado por el emperador constantino, para erradicar la persecución contra los cristianos?",
+            "answer":["El edicto de tolu","Edicto de tesalonica","Edicto de constantino","El edicto de tolerancia"],
+            "correct":"3"
+        },
+        {
+            "question":"¿Cual fue el emperador que antecedio al emperador Constantino I el grande, y que se destaco por llevar a cabo la mas sangrienta persecución en contra de los cristianos?",
+            "answer":["El emperador Diomiciano (96 - 102 a.C)","El emperador Neron (68 - 81 a.C)","El emperador Diocleciano (303 - 311 a.C)","El emperador Tito (81 - 90 a.C)"],
+            "correct":"2"
+        },
+        {
+            "question":"Describa a los presentes, la promesa, el mensaje central y enseñanza que nos trae la iglesia de Esmirna para el tiempo del fin",
+            "answer":["Descripción correcta","Descripción incorrecta"],
+            "correct":"0"
+        }
+    ]
+}
