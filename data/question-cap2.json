@@ -66,7 +66,7 @@
         },
         {
             "question":"¿En que año se firmo el edicto por parte de Constantino, aproximadamente?",
-            "answer":["311 a.C","250 a.C","211 a.C","401 a.C"],
+            "answer":["311 d.C","250 d.C","211 d.C","401 d.C"],
             "correct":"0"
         },
         {
@@ -76,7 +76,7 @@
         },
         {
             "question":"¿Cual fue el emperador que antecedio al emperador Constantino I el grande, y que se destaco por llevar a cabo la mas sangrienta persecución en contra de los cristianos?",
-            "answer":["El emperador Diomiciano (96 - 102 a.C)","El emperador Neron (68 - 81 a.C)","El emperador Diocleciano (303 - 311 a.C)","El emperador Tito (81 - 90 a.C)"],
+            "answer":["El emperador Diomiciano (96 - 102 d.C)","El emperador Neron (68 - 81 d.C)","El emperador Diocleciano (303 - 311 d.C)","El emperador Tito (81 - 90 d.C)"],
             "correct":"2"
         },
         {
