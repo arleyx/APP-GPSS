@@ -83,6 +83,60 @@
             "question":"Describa a los presentes, la promesa, el mensaje central y enseñanza que nos trae la iglesia de Esmirna para el tiempo del fin",
             "answer":["Descripción correcta","Descripción incorrecta"],
             "correct":"0"
+        },
+
+
+
+
+        {
+            "question":"¿En que año aparentemente tuvo su conversión el emperador Constantino?",
+            "answer":["Año 313 d.C", "Año 538 d.C", "Año 323 d.C","Año 233 d.C"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Que periodo comprende en la historia de la iglesia el mensaje a pergamo?",
+            "answer":["538 - 573 d.C", "91 - 96 d.C", "210 - 313 d.C","313 - 538 d.C"],
+            "correct":"3"
+        },
+        {
+            "question":"¿Cual es el significado del nombre 'Antipas'?",
+            "answer":["ANTI: En lugar de, PAS: Padre","ANTI: En quien confio, PAS: mi Señor","ANTI: Antes de, PAS: mi Testigo","ANTI: Despues de, PAS: mi Señor"],
+            "correct":"0"
+        },
+        {
+            "question":"¿Que significa la palabra 'mártus'?",
+            "answer":["Fiel","Testigo","Trono","Espada"],
+            "correct":"1"
+        },
+        {
+            "question":"Nombre del rey con el cual Balaam hizo pecar al pueblo de Israel y que es aplicado en la analogía hecha a la iglesia de Pergamo",
+            "answer":["Atalia","Aman","Balac","Antipas"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Cual es la recompensa que se le da a la iglesia de Pergamo?",
+            "answer":["Le dare a comer del arbol de la vida y una piedrecita blanca","Le dare a comer del mana escondido y una piedrecita blanca","Le dare la corona de vida y una piedrecita blanca","Le dare a comer del mana escondido y no sufrira daño de la segunda muerte"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Como se le describe al Señor Jesús en el mensaje a la iglesia de Pergamo?",
+            "answer":["El que estuvo muerto y vivio","El que tiene las siete estrellas en diestra","Respuesta","El que tiene la espada aguda de dos filos"],
+            "correct":"0"
+        },
+        {
+            "question":"¿Por que a Pergamo se le dice que esta en el trono de Satanás a nivel de la iglesia local e historico?",
+            "answer":["Correcto","Incorrecto"],
+            "correct":"0"
+        },
+        {
+            "question":"¿Que significa el nombre Pergamo?",
+            "answer":["Acropolis","Metropolis","Puerto maritimo","Deseada"],
+            "correct":"0"
+        },
+        {
+            "question":"Describa a los presentes el mensaje principal que se le da a la Iglesia de Pergamo",
+            "answer":["Descripción correcta","Descripción incorrecta"],
+            "correct":"0"
         }
     ]
 }
