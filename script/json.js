@@ -17,5 +17,5 @@
             }
         }
     };
-    httpRequest.open('GET', 'data/question-all.json');
+    httpRequest.open('GET', 'data/question-cap3.json');
     httpRequest.send();

@@ -1,0 +1,54 @@
+{
+    "questions":[
+        {
+            "question":"Mencione las iglesias del apocalipsis, en su orden correcto",
+            "answer":["Correcto","Incorrecto"],
+            "correct":"0"
+        },
+        {
+            "question":"¿Por quien fue fundada la ciudad de Filadelfia?",
+            "answer":["Eumenes II","Dario el grande","Attalo II","Tiberio"],
+            "correct":"2"
+        },
+        {
+            "question":"¿Que significa Filadelfia?",
+            "answer":["Acropolis","Amor fraternal","Deseada","Amada"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Que enseñanza importante trae el mensaje de la iglesia de Filadelfia para nuestras vidas en todo ámbito?",
+            "answer":["Año 138 a.C","Año 435 a.C","Año 70 d.C","Año 100 d.C"],
+            "correct":"0"
+        },
+        {
+            "question":"¿Que como se escribe la palabra verdadero en el mensaje a Filadelfia?",
+            "answer":["hoop-ok-at","shaw-bah'","prokariuos","al'thinós"],
+            "correct":"0"
+        },
+        {
+            "question":"¿Que se dice, que tiene, aquel, quien envia el mensaje a la iglesia de Filadelfia?",
+            "answer":["Los 7 Candelabros","Las 7 estrellas","La llave de David","Los 7 Espiritus de Dios"],
+            "correct":"2"
+        },
+        {
+            "question":"Que caracterizaba a la iglesia de Sardis. Argumente su respuesta con la Biblia",
+            "answer":["Amor","Hipocresia","Gozo","Rencor"],
+            "correct":"1"
+        },
+        {
+            "question":"¿Que tres cosas se le prometen a la iglesia de Sardis?",
+            "answer":["Ropas blancas, su nombre en el libro de la vida, confesión de su nombre ante el Padre y los ángeles","Ropas blancas, no recibira daño de la segunda muerte, confesión de su nombre ante el Padre y los ángeles","Comer del arbol de la vida, su nombre en el libro de la vida, confesión de su nombre ante el Padre y los ángeles","Ropas blancas, su nombre en el libro de la vida, lo hare columna en el santuario de Dios"],
+            "correct":"0"
+        },
+        {
+            "question":"Describa el periodo historico que presenta la iglesia de Sardis. Ayuda: Apocalipsis 3:1",
+            "answer":["Correcto","Incorrecto"],
+            "correct":"0"
+        },
+        {
+            "question":"¿Que significa la palabra 'metanoé'? Mateo 3:1,2",
+            "answer":["Guárdalo","Arrepiéntete","Acuérdate","Ladrón"],
+            "correct":"1"
+        }
+    ]
+}
