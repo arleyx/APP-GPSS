@@ -17,13 +17,18 @@
         },
         {
             "question":"¿Que enseñanza importante trae el mensaje de la iglesia de Filadelfia para nuestras vidas en todo ámbito?",
+            "answer":["Correcto","Incorrecto"],
+            "correct":"0"
+        },
+        {
+            "question":"¿En que año, aproximadamente, fue fundada la ciudad de Filadelfia?",
             "answer":["Año 138 a.C","Año 435 a.C","Año 70 d.C","Año 100 d.C"],
             "correct":"0"
         },
         {
-            "question":"¿Que como se escribe la palabra verdadero en el mensaje a Filadelfia?",
+            "question":"¿Como se escribe la palabra 'verdadero', en griego?",
             "answer":["hoop-ok-at","shaw-bah'","prokariuos","al'thinós"],
-            "correct":"0"
+            "correct":"3"
         },
         {
             "question":"¿Que se dice, que tiene, aquel, quien envia el mensaje a la iglesia de Filadelfia?",
